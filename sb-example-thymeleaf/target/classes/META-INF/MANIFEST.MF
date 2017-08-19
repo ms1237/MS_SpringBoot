@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sb-example-thymeleaf
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tkmas43
+Implementation-Vendor-Id: com.ms.sb
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/sb-example-t
+ hymeleaf/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
